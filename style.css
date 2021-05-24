@@ -1,0 +1,26 @@
+body {
+	font-family: Helvetica, Verdana;
+	text-align: center;
+	font-size: 250%;
+}
+
+p {
+	padding: 7px 10px;
+}
+
+.input {
+	width: 70%;
+	font-size: 120%;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
+
+.output{
+  border-style: solid;
+  border-width: 1px;
+}
